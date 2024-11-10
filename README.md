@@ -1,0 +1,2 @@
+# Dimensionality-Reduction-and-Classification-Analysis-Breast-Cancer-Case-Study
+This repository explores different classification models on a breast cancer dataset, highlighting how Principal Component Analysis (PCA) can simplify data while retaining key information. The project’s goal is to determine which model best predicts breast cancer outcomes by analyzing each algorithm’s accuracy and effectiveness after applying PCA.
